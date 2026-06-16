@@ -1,2 +1,3 @@
 # Gif_Generator
-It allows you to create GIFs using added images.
+EN: It allows you to create GIFs using added images.
+TR: Eklenen resimlerle GIF oluşturmayı sağlar.
